@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Page_Back_Navigation.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Page_Back_Navigation"
+    RequestedTheme="Light">
+
+</Application>
