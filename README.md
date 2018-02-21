@@ -1,2 +1,2 @@
 # UWPStudy
-I will save any UWP project for study.
+I will update any UWP projects for study.
